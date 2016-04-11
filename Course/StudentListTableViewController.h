@@ -15,6 +15,6 @@
 
 @property (strong, nonatomic) Student *student;
 
-@property (strong, nonatomic) Student *student3;
+@property (strong, nonatomic) Student *student7;
 
 @end
