@@ -17,6 +17,7 @@
 @property NSNumber *credits;
 @property NSNumber *quota;
 @property (strong, nonatomic) NSString *picture;
+@property (strong, nonatomic) NSString *handBook;
 
 - (instancetype) initWithSubject:(NSString *)subject thenCredits:(NSNumber *)credits thenPicture:(NSString *)picture thenTeacher:(Teacher *)teacher;
 
